@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Materials/M_Mirror.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Materials/NewMaterial.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Materials/Marble.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Materials/Stand.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Materials/Tree.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Materials/marbleTexture.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/StaticMeshes/old_tree.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8E/TSSL5JPYB8UQ7DC9TVWRM0.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_0.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_1.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_2.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_3.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_4.uasset",
+				"C:/Users/Student/Documents/GitHub/Graphics/MyProject/Content/Fab/Old_Tree/old_tree/Textures/old_tree_texture_5.uasset"
+			]
+		}
+	]
+}
